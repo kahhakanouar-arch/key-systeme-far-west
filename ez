@@ -3,7 +3,7 @@ local LocalPlayer = Players.LocalPlayer or Players.PlayerAdded:Wait()
 
 local WhitelistedIDs = {
     9221990104, -- Place 1
-    10505016592, 0, 0, 0, 0, 0, 0, 0, 0,
+    10505016592, 9030856047, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 }
