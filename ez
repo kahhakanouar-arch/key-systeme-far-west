@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer or Players.PlayerAdded:Wait()
 
 local WhitelistedIDs = {
-    9221990104, -- Place 1
+    0, -- Place 1
     10505016592, 9030856047, 9299316743, 10379860217, 10082742981, 9183871127, 8324859397, 8814679373, 10350312793,
     10230482489, 0, 0, 0, 0, 0, 0, 0, 0, 0,
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0
